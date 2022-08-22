@@ -9,3 +9,5 @@ inside the game folder open the command window and execute the command
 ```sh
 py invasion_alienigena.py
 ```
+### Contact
+Jeisonfg14@gmail.com
